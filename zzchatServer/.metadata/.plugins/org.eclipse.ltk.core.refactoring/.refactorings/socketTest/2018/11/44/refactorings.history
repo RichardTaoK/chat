@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.android.net.AndroidRunable&apos; to &apos;AndroidRunnable&apos;&#x0D;&#x0A;- Original project: &apos;socketTest&apos;&#x0D;&#x0A;- Original element: &apos;com.android.net.AndroidRunable&apos;&#x0D;&#x0A;- Renamed element: &apos;com.android.net.AndroidRunnable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AndroidRunable&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.android.net{AndroidRunable.java[AndroidRunable" matchStrategy="1" name="AndroidRunnable" qualified="false" references="true" similarDeclarations="false" stamp="1541160890917" textual="false" version="1.0"/>
+</session>

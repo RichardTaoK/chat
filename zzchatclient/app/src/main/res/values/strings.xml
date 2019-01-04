@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wechat</string>
+    <string name="enter">Enter</string>
+    <string name="title_activity_adapter_main_view_pager">AdapterMainViewPager</string>
+    <string name="guide_pic">guide_pic</string>
+    <string name="eye_of_agamotto">Eye of Agamotto</string>
+</resources>

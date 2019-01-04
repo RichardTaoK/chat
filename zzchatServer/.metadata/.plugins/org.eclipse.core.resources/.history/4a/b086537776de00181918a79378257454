@@ -1,0 +1,26 @@
+package org.han.main;
+
+import java.awt.EventQueue;
+
+import org.han.view.MainWindow;
+
+public class StartServers {
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			@Override
+			public void run() {
+				// TODO Auto-generated method stub
+				try {
+					
+					MainWindow frame =new MainWindow();
+					ServerListener serverListener =new ServerListener();
+					serverListener.start();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		});;
+	}
+}

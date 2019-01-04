@@ -1,0 +1,5 @@
+package org.han.main;
+
+public class SocketMsg {
+
+}
